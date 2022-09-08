@@ -33,7 +33,7 @@ The Saint Louis Art Museum is **one of the principal U.S. art museums, with pain
 
 ***
 
-## places to explore
+# places to explore
 
 Below table describes the places i suggest people to explore.
 
@@ -45,12 +45,28 @@ Below table describes the places i suggest people to explore.
 |Kansas          |overlandpark     |14hours      |
 
 ***
-
+# QUOTES
 >Even if we don't have the power to choose where we come from, we can still choose where we go from there.
 —*Stephen Chbosky*
 
 >And now that you don't have to be perfect, you can be good.
 —*John Steinbeck*
+
+***
+
+# Code Fencing
+> I am trying to insert a chunk of HTML into a div. I want to see if plain JavaScript way is faster than using jQuery. Unfortunately, I forgot how to do it the 'old' way.
+<https://stackoverflow.com/questions/584751/inserting-html-into-a-div>
+
+```
+let string_of_html = `
+  <div>Cool</div>
+`;
+```
+<https://css-tricks.com/snippets/javascript/inject-html-from-a-string-of-html/>
+
+
+
 
 
 
