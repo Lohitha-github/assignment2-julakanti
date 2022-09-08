@@ -31,5 +31,20 @@ Destination will be on the right
 
 [MY PHOTO](mypic.jpeg)
 
+***
+
+## places to explore
+
+Below table describes the places i suggest people to explore.
+
+|Name of the city    |   Location    |   Time to spend  |
+|--------------------|---------------|------------------|
+|maryville       |parkwayvillage   |24hours      |
+|newyork         |Times square     |12hours      |
+|nebraska        |omaha            |34hours      |
+|Kansas          |overlandpark     |14hours      |
+
+
+
 
 
