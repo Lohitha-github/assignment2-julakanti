@@ -7,22 +7,22 @@ The Saint Louis Art Museum is **one of the principal U.S. art museums, with pain
 
 ***
 # PATH TO REACH MUSEUM
-St. Louis Lambert International Airport
-Get on I-70 E
-Head southeast on Airflight Dr toward Main Terminal
-Use the right lane to merge onto I-70 E via the ramp to St Louis
-Take I-170 S to Forest Park Pkwy in Clayton. Take exit 1E from I-170 S
-Merge onto I-70 E
-Take exit 238A for Interstate 170 S toward Clayton
-Merge onto I-170 S
-Take exit 1E for Forest Park Pkwy
-Continue on Forest Park Pkwy. Drive to Fine Arts Dr in St. Louis
-Continue onto Forest Park Pkwy
-Keep left to stay on Forest Park Pkwy
-Turn right onto Skinker Blvd
-Turn left onto Lagoon Dr
-Slight right onto Fine Arts Dr
-Destination will be on the right
+1. St. Louis Lambert International Airport
+2. Get on I-70 E
+3. Head southeast on Airflight Dr toward Main Terminal
+4. Use the right lane to merge onto I-70 E via the ramp to St Louis
+5. Take I-170 S to Forest Park Pkwy in Clayton. Take exit 1E from I-170 S
+6. Merge onto I-70 E
+7. Take exit 238A for Interstate 170 S toward Clayton
+8. Merge onto I-170 S
+9. Take exit 1E for Forest Park Pkwy
+10. Continue on Forest Park Pkwy. Drive to Fine Arts Dr in St. Louis
+11. Continue onto Forest Park Pkwy
+12. Keep left to stay on Forest Park Pkwy
+13. Turn right onto Skinker Blvd
+14. Turn left onto Lagoon Dr
+15. Slight right onto Fine Arts Dr
+16. Destination will be on the right
 
 * Saint Louis Zoo
 * Forest Park
