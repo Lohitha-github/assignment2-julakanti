@@ -29,5 +29,7 @@ Destination will be on the right
 * Missouri History Museum
 * Saint Louis Science Center
 
+[MY PHOTO](mypic.jpeg)
+
 
 
