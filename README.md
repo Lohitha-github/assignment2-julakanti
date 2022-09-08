@@ -44,6 +44,13 @@ Below table describes the places i suggest people to explore.
 |nebraska        |omaha            |34hours      |
 |Kansas          |overlandpark     |14hours      |
 
+***
+
+>Even if we don't have the power to choose where we come from, we can still choose where we go from there.
+—*Stephen Chbosky*
+
+>And now that you don't have to be perfect, you can be good.
+—*John Steinbeck*
 
 
 
