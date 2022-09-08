@@ -24,3 +24,10 @@ Turn left onto Lagoon Dr
 Slight right onto Fine Arts Dr
 Destination will be on the right
 
+* Saint Louis Zoo
+* Forest Park
+* Missouri History Museum
+* Saint Louis Science Center
+
+
+
